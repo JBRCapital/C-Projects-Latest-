@@ -1,0 +1,21 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace RunEveryHour
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            do
+            {
+                System.Diagnostics.Process.Start(@"C:\JBR Code\ClickSend\RegularlyRunApplication\Clicksend.exe");
+                System.Diagnostics.Process.Start(@"C:\JBR Code\CallCredit\RegularlyRunApplication\CallCreditAutoPasswordChanger.exe");
+                System.Threading.Thread.Sleep(30 * 60 * 1000);
+            } while (true);
+        }
+    }
+}

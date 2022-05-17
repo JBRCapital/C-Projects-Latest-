@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCreditWrapper", "CallCreditWrapper\CallCreditWrapper.csproj", "{0F4778BF-8FCE-42D8-A9F8-4F94388EBD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDelegation", "CallCreditApiDelegation\ApiDelegation.csproj", "{682B75A6-2073-4C7C-8C8C-F93D52AB3B1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectConfiguration", "AppConfiguration\ProjectConfiguration.csproj", "{7D9CCEC1-F33C-483A-A16F-5FB3F96406B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPasswordChangerDBWrapper", "AutoPasswordChangerDBWrapper\AutoPasswordChangerDBWrapper.csproj", "{535797F6-A471-413C-94FC-1E7A4D60D068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCreditAutoPasswordChanger", "CallCreditAutoPasswordChanger\CallCreditAutoPasswordChanger.csproj", "{616EE05C-9AD7-4876-B1F5-5BAE7046A509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCreditApiPasswordChangerWrapper", "CallCreditPasswordChangerWrapper\CallCreditApiPasswordChangerWrapper.csproj", "{663C6EF7-2355-4F6B-A960-150AB9AF6405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imagestobase64", "imagestobase64\imagestobase64.csproj", "{272C17CA-B573-4E93-8467-595EEB3E3309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F4778BF-8FCE-42D8-A9F8-4F94388EBD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4778BF-8FCE-42D8-A9F8-4F94388EBD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4778BF-8FCE-42D8-A9F8-4F94388EBD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4778BF-8FCE-42D8-A9F8-4F94388EBD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{682B75A6-2073-4C7C-8C8C-F93D52AB3B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{682B75A6-2073-4C7C-8C8C-F93D52AB3B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{682B75A6-2073-4C7C-8C8C-F93D52AB3B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{682B75A6-2073-4C7C-8C8C-F93D52AB3B1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D9CCEC1-F33C-483A-A16F-5FB3F96406B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9CCEC1-F33C-483A-A16F-5FB3F96406B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9CCEC1-F33C-483A-A16F-5FB3F96406B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9CCEC1-F33C-483A-A16F-5FB3F96406B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535797F6-A471-413C-94FC-1E7A4D60D068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535797F6-A471-413C-94FC-1E7A4D60D068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535797F6-A471-413C-94FC-1E7A4D60D068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535797F6-A471-413C-94FC-1E7A4D60D068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616EE05C-9AD7-4876-B1F5-5BAE7046A509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616EE05C-9AD7-4876-B1F5-5BAE7046A509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616EE05C-9AD7-4876-B1F5-5BAE7046A509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616EE05C-9AD7-4876-B1F5-5BAE7046A509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663C6EF7-2355-4F6B-A960-150AB9AF6405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663C6EF7-2355-4F6B-A960-150AB9AF6405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663C6EF7-2355-4F6B-A960-150AB9AF6405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663C6EF7-2355-4F6B-A960-150AB9AF6405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{272C17CA-B573-4E93-8467-595EEB3E3309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272C17CA-B573-4E93-8467-595EEB3E3309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272C17CA-B573-4E93-8467-595EEB3E3309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272C17CA-B573-4E93-8467-595EEB3E3309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8DA589F-C391-455E-934A-3E3B8B313DAE}
+	EndGlobalSection
+EndGlobal

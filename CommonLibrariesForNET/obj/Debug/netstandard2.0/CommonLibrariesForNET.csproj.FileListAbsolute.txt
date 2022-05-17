@@ -1,0 +1,5 @@
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\netstandard2.0\CommonLibrariesForNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\netstandard2.0\CommonLibrariesForNET.AssemblyInfoInputs.cache
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\netstandard2.0\CommonLibrariesForNET.AssemblyInfo.cs
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\netstandard2.0\CommonLibrariesForNET.csproj.CoreCompileInputs.cache
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\netstandard2.0\CommonLibrariesForNET.csproj.AssemblyReference.cache

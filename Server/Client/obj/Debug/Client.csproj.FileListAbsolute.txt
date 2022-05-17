@@ -1,0 +1,9 @@
+c:\Users\administrator\documents\visual studio 2015\Projects\Server\Client\bin\Debug\Client.exe
+c:\Users\administrator\documents\visual studio 2015\Projects\Server\Client\bin\Debug\Client.pdb
+c:\Users\administrator\documents\visual studio 2015\Projects\Server\Client\obj\Debug\Client.exe
+c:\Users\administrator\documents\visual studio 2015\Projects\Server\Client\obj\Debug\Client.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Client\bin\Debug\Client.exe.config
+C:\JBR Code\Server\Client\bin\Debug\Client.exe.config
+C:\JBR Code\Server\Client\obj\Debug\Client.exe
+C:\JBR Code\Server\Client\obj\Debug\Client.pdb

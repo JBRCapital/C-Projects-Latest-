@@ -1,0 +1,10 @@
+C:\JBR Code\LogHelper\bin\Debug\netstandard2.0\LogHelper.deps.json
+C:\JBR Code\LogHelper\bin\Debug\netstandard2.0\LogHelper.dll
+C:\JBR Code\LogHelper\bin\Debug\netstandard2.0\LogHelper.pdb
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.AssemblyInfoInputs.cache
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.AssemblyInfo.cs
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.csproj.CoreCompileInputs.cache
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.dll
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.pdb
+C:\JBR Code\LogHelper\obj\Debug\netstandard2.0\LogHelper.csproj.AssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\JBR Code\ForceToolkitForNET\obj\Debug\netstandard2.0\ForceToolkitForNET.csproj.AssemblyReference.cache
+C:\JBR Code\ForceToolkitForNET\obj\Debug\netstandard2.0\ForceToolkitForNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\ForceToolkitForNET\obj\Debug\netstandard2.0\ForceToolkitForNET.AssemblyInfoInputs.cache
+C:\JBR Code\ForceToolkitForNET\obj\Debug\netstandard2.0\ForceToolkitForNET.AssemblyInfo.cs
+C:\JBR Code\ForceToolkitForNET\obj\Debug\netstandard2.0\ForceToolkitForNET.csproj.CoreCompileInputs.cache

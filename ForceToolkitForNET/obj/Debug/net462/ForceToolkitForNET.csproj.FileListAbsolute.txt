@@ -1,0 +1,15 @@
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\Salesforce.Force.dll
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\Salesforce.Force.pdb
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\Newtonsoft.Json.dll
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\Salesforce.Common.dll
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\System.Net.Http.dll
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\Salesforce.Common.pdb
+C:\JBR Code\ForceToolkitForNET\bin\Debug\net462\System.Net.Http.xml
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\ForceToolkitForNET.csproj.AssemblyReference.cache
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\ForceToolkitForNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\ForceToolkitForNET.AssemblyInfoInputs.cache
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\ForceToolkitForNET.AssemblyInfo.cs
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\ForceToolkitForNET.csproj.CoreCompileInputs.cache
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\ForceToolkitForNET.csproj.CopyComplete
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\Salesforce.Force.dll
+C:\JBR Code\ForceToolkitForNET\obj\Debug\net462\Salesforce.Force.pdb

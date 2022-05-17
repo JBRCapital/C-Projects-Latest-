@@ -1,0 +1,12 @@
+C:\JBR Code\Docx2ClickSend\bin\Debug\DocxFromTemplateGenerator.dll
+C:\JBR Code\Docx2ClickSend\bin\Debug\DocxFromTemplateGenerator.pdb
+C:\JBR Code\Docx2ClickSend\bin\Debug\FTPHelper.dll
+C:\JBR Code\Docx2ClickSend\bin\Debug\Newtonsoft.Json.dll
+C:\JBR Code\Docx2ClickSend\bin\Debug\FTPHelper.pdb
+C:\JBR Code\Docx2ClickSend\bin\Debug\Newtonsoft.Json.xml
+C:\JBR Code\Docx2ClickSend\obj\Debug\DocxFromTemplateGenerator.csproj.AssemblyReference.cache
+C:\JBR Code\Docx2ClickSend\obj\Debug\DocxFromTemplateGenerator.csproj.ResolveComReference.cache
+C:\JBR Code\Docx2ClickSend\obj\Debug\DocxFromTemplateGenerator.csproj.CoreCompileInputs.cache
+C:\JBR Code\Docx2ClickSend\obj\Debug\DocxFromTemplateGenerator.csproj.CopyComplete
+C:\JBR Code\Docx2ClickSend\obj\Debug\DocxFromTemplateGenerator.dll
+C:\JBR Code\Docx2ClickSend\obj\Debug\DocxFromTemplateGenerator.pdb

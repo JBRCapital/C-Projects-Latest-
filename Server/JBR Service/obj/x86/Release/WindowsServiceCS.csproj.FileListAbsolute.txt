@@ -1,0 +1,15 @@
+C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.exe.config
+C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.exe
+C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.pdb
+C:\JBR Code\JBR Service\obj\x86\Release\WindowsServiceCS.csprojResolveAssemblyReference.cache
+C:\JBR Code\JBR Service\obj\x86\Release\WindowsServiceCS.ProjectInstaller.resources
+C:\JBR Code\JBR Service\obj\x86\Release\WindowsServiceCS.csproj.GenerateResource.Cache
+C:\JBR Code\JBR Service\obj\x86\Release\WindowsServiceCS.exe
+C:\JBR Code\JBR Service\obj\x86\Release\WindowsServiceCS.pdb
+C:\JBR Code\JBR Service\bin\Release\Newtonsoft.Json.dll
+C:\JBR Code\JBR Service\bin\Release\Salesforce.Common.dll
+C:\JBR Code\JBR Service\bin\Release\Salesforce.Force.dll
+C:\JBR Code\JBR Service\bin\Release\Newtonsoft.Json.xml
+C:\JBR Code\Server\JBR Service\bin\Release\WindowsServiceCS.exe.config
+C:\JBR Code\Server\JBR Service\obj\x86\Release\WindowsServiceCS.exe
+C:\JBR Code\Server\JBR Service\obj\x86\Release\WindowsServiceCS.pdb

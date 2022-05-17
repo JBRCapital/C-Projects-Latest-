@@ -1,0 +1,16 @@
+C:\JBR Code\AnchorDownload 2\bin\Debug\AnchorDownload.exe.config
+C:\JBR Code\AnchorDownload 2\bin\Debug\AnchorDownload.exe
+C:\JBR Code\AnchorDownload 2\bin\Debug\AnchorDownload.pdb
+C:\JBR Code\AnchorDownload 2\bin\Debug\ExceptionLogging.dll
+C:\JBR Code\AnchorDownload 2\bin\Debug\LogHelper.dll
+C:\JBR Code\AnchorDownload 2\bin\Debug\Renci.SshNet.dll
+C:\JBR Code\AnchorDownload 2\bin\Debug\SMTPHelperNEWNEW.dll
+C:\JBR Code\AnchorDownload 2\bin\Debug\LogHelper.pdb
+C:\JBR Code\AnchorDownload 2\bin\Debug\SMTPHelperNEWNEW.pdb
+C:\JBR Code\AnchorDownload 2\bin\Debug\ExceptionLogging.pdb
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownloadNew.csproj.AssemblyReference.cache
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownloadNew.csproj.SuggestedBindingRedirects.cache
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownloadNew.csproj.CoreCompileInputs.cache
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownloadNew.csproj.CopyComplete
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownload.exe
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownload.pdb

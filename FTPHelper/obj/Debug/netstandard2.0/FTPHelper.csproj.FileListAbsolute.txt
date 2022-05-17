@@ -1,0 +1,10 @@
+C:\JBR Code\FTPHelper\bin\Debug\netstandard2.0\FTPHelper.deps.json
+C:\JBR Code\FTPHelper\bin\Debug\netstandard2.0\FTPHelper.dll
+C:\JBR Code\FTPHelper\bin\Debug\netstandard2.0\FTPHelper.pdb
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.AssemblyInfoInputs.cache
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.AssemblyInfo.cs
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.csproj.CoreCompileInputs.cache
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.dll
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.pdb
+C:\JBR Code\FTPHelper\obj\Debug\netstandard2.0\FTPHelper.csproj.AssemblyReference.cache

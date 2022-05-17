@@ -1,0 +1,13 @@
+C:\JBR Code\CommonLibrariesForNET\bin\Debug\net462\Salesforce.Common.dll
+C:\JBR Code\CommonLibrariesForNET\bin\Debug\net462\Salesforce.Common.pdb
+C:\JBR Code\CommonLibrariesForNET\bin\Debug\net462\Newtonsoft.Json.dll
+C:\JBR Code\CommonLibrariesForNET\bin\Debug\net462\System.Net.Http.dll
+C:\JBR Code\CommonLibrariesForNET\bin\Debug\net462\System.Net.Http.xml
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\CommonLibrariesForNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\CommonLibrariesForNET.AssemblyInfoInputs.cache
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\CommonLibrariesForNET.AssemblyInfo.cs
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\CommonLibrariesForNET.csproj.CoreCompileInputs.cache
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\CommonLibrariesForNET.csproj.CopyComplete
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\Salesforce.Common.dll
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\Salesforce.Common.pdb
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net462\CommonLibrariesForNET.csproj.AssemblyReference.cache

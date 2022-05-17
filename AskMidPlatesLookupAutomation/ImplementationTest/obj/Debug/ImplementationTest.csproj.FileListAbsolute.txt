@@ -1,0 +1,26 @@
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.exe.config
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.exe
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.pdb
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\UpworkPlatesLookupAutomationDLL.dll
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\UpworkPlatesLookupAutomationDLL.pdb
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.csprojResolveAssemblyReference.cache
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.csproj.CoreCompileInputs.cache
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.exe
+C:\Users\arober\source\repos\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.pdb
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.exe.config
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.exe
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.pdb
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\UpworkPlatesLookupAutomationDLL.dll
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\UpworkPlatesLookupAutomationDLL.pdb
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.csprojResolveAssemblyReference.cache
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.csproj.CoreCompileInputs.cache
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.exe
+C:\Users\arober\Desktop\ff\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.pdb
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.exe.config
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.exe
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.pdb
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.exe
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\ImplementationTest.pdb
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\UpworkPlatesLookupAutomationDLL.dll
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\bin\Debug\UpworkPlatesLookupAutomationDLL.pdb
+C:\JBR Test Code\UpworkPlatesLookupAutomation\ImplementationTest\obj\Debug\ImplementationTest.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Salesforce.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Salesforce.Force.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\JBR Code\Server\Server\bin\Debug\Server.exe.config
+C:\JBR Code\Server\Server\obj\Debug\Server.exe
+C:\JBR Code\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,14 @@
+C:\JBR Code\SMTPEmailTester\bin\Debug\SMTPEmailTester.exe.config
+C:\JBR Code\SMTPEmailTester\bin\Debug\SMTPEmailTester.exe
+C:\JBR Code\SMTPEmailTester\bin\Debug\SMTPEmailTester.pdb
+C:\JBR Code\SMTPEmailTester\bin\Debug\SMTPHelperNEWNEW.dll
+C:\JBR Code\SMTPEmailTester\bin\Debug\SMTPHelperNEWNEW.pdb
+C:\JBR Code\SMTPEmailTester\obj\Debug\SMTPEmailTester.csproj.CoreCompileInputs.cache
+C:\JBR Code\SMTPEmailTester\obj\Debug\SMTPEmailTester.csproj.CopyComplete
+C:\JBR Code\SMTPEmailTester\obj\Debug\SMTPEmailTester.exe
+C:\JBR Code\SMTPEmailTester\obj\Debug\SMTPEmailTester.pdb
+C:\JBR Code\SMTPEmailTester\bin\Debug\AegisImplicitMail.dll
+C:\JBR Code\SMTPEmailTester\bin\Debug\System.Buffers.dll
+C:\JBR Code\SMTPEmailTester\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\JBR Code\SMTPEmailTester\bin\Debug\System.Buffers.xml
+C:\JBR Code\SMTPEmailTester\obj\Debug\SMTPEmailTester.csproj.AssemblyReference.cache

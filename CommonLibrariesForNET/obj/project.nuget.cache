@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QYOx5v7M96x5JJTOkDZfRc9U9xNj2Q2aClIXWJwkT804pJXOomo0CeaiV0MRwmeSc2hqhITz7Ct5bSyQQzCEA==",
+  "success": true,
+  "projectFilePath": "C:\\JBR Code\\CommonLibrariesForNET\\CommonLibrariesForNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

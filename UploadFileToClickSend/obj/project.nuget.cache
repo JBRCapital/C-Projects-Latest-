@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqHl2d2nw75Q1nBPlBJEEkhQFYNWG7uXGkxPZfipKUvLGMqCtb/HNb/E89dHeag7mgxagAd79/8qNQA8edu0cQ==",
+  "success": true,
+  "projectFilePath": "C:\\JBR Code\\UploadFileToClickSend\\UploadFileToClickSend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

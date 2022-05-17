@@ -1,0 +1,9 @@
+C:\JBR Code\DictionaryHelper\bin\Debug\DictionaryHelper.dll
+C:\JBR Code\DictionaryHelper\bin\Debug\DictionaryHelper.pdb
+C:\JBR Code\DictionaryHelper\bin\Debug\Newtonsoft.Json.dll
+C:\JBR Code\DictionaryHelper\bin\Debug\Newtonsoft.Json.xml
+C:\JBR Code\DictionaryHelper\obj\Debug\DictionaryHelper.csproj.CoreCompileInputs.cache
+C:\JBR Code\DictionaryHelper\obj\Debug\DictionaryHelper.csproj.CopyComplete
+C:\JBR Code\DictionaryHelper\obj\Debug\DictionaryHelper.dll
+C:\JBR Code\DictionaryHelper\obj\Debug\DictionaryHelper.pdb
+C:\JBR Code\DictionaryHelper\obj\Debug\DictionaryHelper.csproj.AssemblyReference.cache

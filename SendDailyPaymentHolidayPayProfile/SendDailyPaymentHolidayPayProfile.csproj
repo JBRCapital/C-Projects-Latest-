@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DB2Excel\DB2Excel.csproj" />
+    <ProjectReference Include="..\SMTPHelper\SMTPHelper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DB2Excel">
+      <HintPath>..\DB2Excel\bin\Debug\netcoreapp3.0\DB2Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="ExceptionLogging">
+      <HintPath>..\AnchorDownload 2\ExceptionLogging\bin\Debug\netstandard2.0\ExceptionLogging.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

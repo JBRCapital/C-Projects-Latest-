@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Salesforce.Force
+build_property.ProjectDir = C:\JBR Code\ForceToolkitForNET\

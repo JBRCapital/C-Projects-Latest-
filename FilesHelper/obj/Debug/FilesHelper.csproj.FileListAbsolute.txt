@@ -1,0 +1,5 @@
+C:\JBR Code\FilesHelper\bin\Debug\FilesHelper.dll
+C:\JBR Code\FilesHelper\bin\Debug\FilesHelper.pdb
+C:\JBR Code\FilesHelper\obj\Debug\FilesHelper.csproj.CoreCompileInputs.cache
+C:\JBR Code\FilesHelper\obj\Debug\FilesHelper.dll
+C:\JBR Code\FilesHelper\obj\Debug\FilesHelper.pdb

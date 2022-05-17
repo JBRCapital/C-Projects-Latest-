@@ -1,0 +1,8 @@
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\obj\Debug\netstandard2.0\ExceptionLogging.AssemblyInfoInputs.cache
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\obj\Debug\netstandard2.0\ExceptionLogging.AssemblyInfo.cs
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\bin\Debug\netstandard2.0\ExceptionLogging.deps.json
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\bin\Debug\netstandard2.0\ExceptionLogging.dll
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\bin\Debug\netstandard2.0\ExceptionLogging.pdb
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\obj\Debug\netstandard2.0\ExceptionLogging.dll
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\obj\Debug\netstandard2.0\ExceptionLogging.pdb
+C:\JBR Code\AnchorDownload\AnchorDownload\ExceptionLogging\obj\Debug\netstandard2.0\ExceptionLogging.csprojAssemblyReference.cache

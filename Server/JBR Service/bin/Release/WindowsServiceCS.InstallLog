@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.exe
+Installing service JBR Sentinel Web Service XML Import...
+Service JBR Sentinel Web Service XML Import has been successfully installed.
+Creating EventLog source JBR Sentinel Web Service XML Import in log Application...
+Committing assembly 'C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.InstallLog
+   assemblypath = C:\JBR Code\JBR Service\bin\Release\WindowsServiceCS.exe

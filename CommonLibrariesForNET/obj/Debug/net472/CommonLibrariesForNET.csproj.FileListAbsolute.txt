@@ -1,0 +1,5 @@
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net472\CommonLibrariesForNET.csproj.AssemblyReference.cache
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net472\CommonLibrariesForNET.GeneratedMSBuildEditorConfig.editorconfig
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net472\CommonLibrariesForNET.AssemblyInfoInputs.cache
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net472\CommonLibrariesForNET.AssemblyInfo.cs
+C:\JBR Code\CommonLibrariesForNET\obj\Debug\net472\CommonLibrariesForNET.csproj.CoreCompileInputs.cache

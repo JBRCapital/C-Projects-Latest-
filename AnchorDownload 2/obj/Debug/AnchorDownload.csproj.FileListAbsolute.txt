@@ -1,0 +1,18 @@
+C:\Users\andre\Desktop\david\AnchorDownload\obj\Debug\AnchorDownload.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\david\AnchorDownload\bin\Debug\AnchorDownload.exe.config
+C:\Users\andre\Desktop\david\AnchorDownload\bin\Debug\AnchorDownload.exe
+C:\Users\andre\Desktop\david\AnchorDownload\bin\Debug\AnchorDownload.pdb
+C:\Users\andre\Desktop\david\AnchorDownload\bin\Debug\Renci.SshNet.dll
+C:\Users\andre\Desktop\david\AnchorDownload\obj\Debug\AnchorDownload.csproj.CopyComplete
+C:\Users\andre\Desktop\david\AnchorDownload\obj\Debug\AnchorDownload.exe
+C:\Users\andre\Desktop\david\AnchorDownload\obj\Debug\AnchorDownload.pdb
+C:\JBR Code\AnchorDownload 2\bin\Debug\AnchorDownload.exe.config
+C:\JBR Code\AnchorDownload 2\bin\Debug\AnchorDownload.exe
+C:\JBR Code\AnchorDownload 2\bin\Debug\AnchorDownload.pdb
+C:\JBR Code\AnchorDownload 2\bin\Debug\Renci.SshNet.dll
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownload.csprojAssemblyReference.cache
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownload.csproj.CopyComplete
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownload.exe
+C:\JBR Code\AnchorDownload 2\obj\Debug\AnchorDownload.pdb
+C:\JBR Code\AnchorDownload 2\bin\Debug\ExceptionLogging.dll
+C:\JBR Code\AnchorDownload 2\bin\Debug\ExceptionLogging.pdb

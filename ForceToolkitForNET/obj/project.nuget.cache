@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gFWZB/XYcrxQx+5SlF81IfFL1VVG6GEae+6DSfioLHTZB529Q5biF8aEgJWdJStQ2ayAvYDdc+8QUbbZPf0XsQ==",
+  "success": true,
+  "projectFilePath": "C:\\JBR Code\\ForceToolkitForNET\\ForceToolkitForNET.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\JBR Code\SMTPHelper\bin\Debug\SMTPHelperNEWNEW.dll
+C:\JBR Code\SMTPHelper\bin\Debug\SMTPHelperNEWNEW.pdb
+C:\JBR Code\SMTPHelper\bin\Debug\BouncyCastle.Crypto.dll
+C:\JBR Code\SMTPHelper\bin\Debug\System.Buffers.dll
+C:\JBR Code\SMTPHelper\bin\Debug\BouncyCastle.Crypto.xml
+C:\JBR Code\SMTPHelper\bin\Debug\System.Buffers.xml
+C:\JBR Code\SMTPHelper\obj\Debug\SMTPHelper.csproj.CoreCompileInputs.cache
+C:\JBR Code\SMTPHelper\obj\Debug\SMTPHelper.csproj.CopyComplete
+C:\JBR Code\SMTPHelper\obj\Debug\SMTPHelperNEWNEW.dll
+C:\JBR Code\SMTPHelper\obj\Debug\SMTPHelperNEWNEW.pdb
+C:\JBR Code\SMTPHelper\obj\Debug\SMTPHelper.csproj.AssemblyReference.cache

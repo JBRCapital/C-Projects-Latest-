@@ -1,0 +1,6 @@
+C:\JBR Code\SQLDataHelper\bin\Debug\SQLDataHelper.dll
+C:\JBR Code\SQLDataHelper\bin\Debug\SQLDataHelper.pdb
+C:\JBR Code\SQLDataHelper\obj\Debug\SQLDataHelper.csproj.CoreCompileInputs.cache
+C:\JBR Code\SQLDataHelper\obj\Debug\SQLDataHelper.dll
+C:\JBR Code\SQLDataHelper\obj\Debug\SQLDataHelper.pdb
+C:\JBR Code\SQLDataHelper\obj\Debug\SQLDataHelper.csproj.AssemblyReference.cache

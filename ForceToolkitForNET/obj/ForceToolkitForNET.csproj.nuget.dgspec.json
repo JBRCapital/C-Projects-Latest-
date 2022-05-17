@@ -1,0 +1,102 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\JBR Code\\ForceToolkitForNET\\ForceToolkitForNET.csproj": {}
+  },
+  "projects": {
+    "C:\\JBR Code\\CommonLibrariesForNET\\CommonLibrariesForNET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\JBR Code\\CommonLibrariesForNET\\CommonLibrariesForNET.csproj",
+        "projectName": "Salesforce.Common",
+        "projectPath": "C:\\JBR Code\\CommonLibrariesForNET\\CommonLibrariesForNET.csproj",
+        "packagesPath": "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\",
+        "outputPath": "C:\\JBR Code\\CommonLibrariesForNET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priya.Shaganti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\JBR Code\\ForceToolkitForNET\\ForceToolkitForNET.csproj": {
+      "version": "2.1.0",
+      "restore": {
+        "projectUniqueName": "C:\\JBR Code\\ForceToolkitForNET\\ForceToolkitForNET.csproj",
+        "projectName": "DeveloperForce.Force",
+        "projectPath": "C:\\JBR Code\\ForceToolkitForNET\\ForceToolkitForNET.csproj",
+        "packagesPath": "C:\\Users\\Priya.Shaganti\\.nuget\\packages\\",
+        "outputPath": "C:\\JBR Code\\ForceToolkitForNET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Priya.Shaganti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\JBR Code\\CommonLibrariesForNET\\CommonLibrariesForNET.csproj": {
+                "projectPath": "C:\\JBR Code\\CommonLibrariesForNET\\CommonLibrariesForNET.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
