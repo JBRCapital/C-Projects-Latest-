@@ -1,0 +1,7 @@
+C:\JBR Code\Clicksend New2\RunEveryHour\bin\Debug\RunEveryHour.exe.config
+C:\JBR Code\Clicksend New2\RunEveryHour\bin\Debug\RunEveryHour.exe
+C:\JBR Code\Clicksend New2\RunEveryHour\bin\Debug\RunEveryHour.pdb
+C:\JBR Code\Clicksend New2\RunEveryHour\obj\Debug\RunEveryHour.csprojAssemblyReference.cache
+C:\JBR Code\Clicksend New2\RunEveryHour\obj\Debug\RunEveryHour.csproj.CoreCompileInputs.cache
+C:\JBR Code\Clicksend New2\RunEveryHour\obj\Debug\RunEveryHour.exe
+C:\JBR Code\Clicksend New2\RunEveryHour\obj\Debug\RunEveryHour.pdb
