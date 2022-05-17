@@ -1,0 +1,17 @@
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.csprojAssemblyReference.cache
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.Properties.Resources.resources
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.csproj.GenerateResource.cache
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.csproj.CoreCompileInputs.cache
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\UpdateSalesforceData.exe.config
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\UpdateSalesforceData.exe
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\UpdateSalesforceData.pdb
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\FastMember.dll
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\Newtonsoft.Json.dll
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\Salesforce.Common.dll
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\Salesforce.Force.dll
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\Newtonsoft.Json.xml
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.csproj.CopyComplete
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.exe
+C:\JBR Code\Repos\updatesalesforce\obj\Debug\UpdateSalesforceData.pdb
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\UpdateSalesforceData.exe.CodeAnalysisLog.xml
+C:\JBR Code\Repos\updatesalesforce\bin\Debug\UpdateSalesforceData.exe.lastcodeanalysissucceeded
