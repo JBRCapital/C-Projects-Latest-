@@ -1,0 +1,16 @@
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\ClickSend.exe.config
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\ClickSend.exe
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\ClickSend.pdb
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Docx2ClickSend.dll
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Salesforce.Common.dll
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Salesforce.Force.dll
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Newtonsoft.Json.dll
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Xceed.Words.NET.dll
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Docx2ClickSend.pdb
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Newtonsoft.Json.xml
+C:\JBR Code\Clicksend New2\ClickSend\obj\Debug\ClickSend.csprojAssemblyReference.cache
+C:\JBR Code\Clicksend New2\ClickSend\obj\Debug\ClickSend.csproj.CoreCompileInputs.cache
+C:\JBR Code\Clicksend New2\ClickSend\obj\Debug\ClickSend.csproj.CopyComplete
+C:\JBR Code\Clicksend New2\ClickSend\obj\Debug\ClickSend.exe
+C:\JBR Code\Clicksend New2\ClickSend\obj\Debug\ClickSend.pdb
+C:\JBR Code\Clicksend New2\ClickSend\bin\Debug\Xceed.Document.NET.dll
